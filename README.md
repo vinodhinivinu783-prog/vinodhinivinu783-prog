@@ -4,7 +4,6 @@ Hi, I'm Vinu
 💻 Learning Web Development  
  ## Projects
 - My Portfolio Website
- Contact
  https://vinodhinivinu783-prog.github.io/da-portfolio/
 
 
