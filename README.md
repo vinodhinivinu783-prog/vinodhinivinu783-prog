@@ -1,11 +1,20 @@
-Hi, I'm Vinu
+# Hi, I'm Vinodhini 👋
 
-🎓  Current:  6th Sem BCA 
+🎓 6th Sem BCA Student  
 💻 Learning Web Development  
- ## Projects
-- My Portfolio Website
- https://vinodhinivinu783-prog.github.io/da-portfolio/
+🌱 Currently improving my coding skills  
 
+## 📂 Projects
+🔹 **Portfolio Website**  
+👉 https://vinodhinivinu783-prog.github.io/da-portfolio/
+
+## 🙋‍♀️ About Me
+- Passionate about building websites  
+- Interested in frontend development  
+- Always eager to learn new technologies  
+
+## 📫 Contact
+- Email: vinodhinivinu783@gmail.com
 
 
 
