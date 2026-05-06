@@ -5,7 +5,7 @@ Hi, I'm Vinu
  ## Projects
 - My Portfolio Website
  Contact
-- Email: vinodhinivinu783@gmail.com@gmail.com
+- Email: https://vinodhinivinu783-prog.github.io/da-portfolio/
 
 
 
